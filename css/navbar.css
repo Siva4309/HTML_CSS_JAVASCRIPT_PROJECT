@@ -77,7 +77,7 @@
     .nav-container .nav-link.active,
     .nav-container .nav-link:hover {
         background: var(--clr-primary);
-        color: var(--clr-black);
+        color: var(--clr-white);
     }
     .nav-container .nav-social-links-main {
         display: flex;
